@@ -1,0 +1,22 @@
+/* DataCards.css */
+.data-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    width: calc(33% - 20px); /* Ajusta el ancho según sea necesario */
+    box-sizing: border-box;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .card-detail {
+    margin-bottom: 5px;
+  }
+  
