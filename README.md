@@ -13,8 +13,10 @@ Para configurar y ejecutar el proyecto, sigue estos pasos:
 2. **Instalar dependencias**: Abre una terminal en el directorio raíz del proyecto y ejecuta el siguiente comando para instalar las dependencias:
    ```bash
    npm install
+3. **Ejecutar el proyecto**: Abre una terminal en el directorio raíz del proyecto y ejecuta el siguiente comando para Ejecutar el proyecto, en el mismo cmd te aparece en cual localhost se esta ejecutando el programa:
+   ```bash
+   npm run dev
 
-   
 ## Template usado
 
 Este proyecto fue creado utilizando un template de React + Vite, el cual es descrito abajo.
